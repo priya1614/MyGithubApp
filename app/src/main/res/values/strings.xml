@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGithubApp</string>
+    <string name="created_date">Created Date:</string>
+    <string name="closed_date">Closed Date:</string>
+    <string name="user_name">User name:</string>
+    <string name="list_of_closed_pull_requests">List of closed Pull Requests</string>
+</resources>
